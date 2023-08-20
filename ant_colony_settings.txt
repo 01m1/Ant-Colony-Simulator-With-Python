@@ -1,0 +1,8 @@
+602
+0.1
+4
+0.5
+True
+False
+1
+False
