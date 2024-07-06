@@ -7,9 +7,19 @@ Upon launching the program, you'll encounter a user-friendly menu where you can 
 
 ![image](https://github.com/01m1/Ant-Colony-Simulator-With-Python/assets/69215780/aa911744-6f89-41f2-8b5b-d5e6f3284e5b)
 
+**Simulation Features**
+
+* **Ant Behavior:** Ants wander around randomly across the screen in search of food. Once they collect food, they transport it back to their home.
+
+* **Pheromone Trails:** Ants lay down pheromone trails to guide others to food sources. Paths strengthen over time as more ants use them, with shorter paths initially stronger.
+
+* **Pheromone Dynamics:** Pheromones evaporate gradually, adjusting path strengths dynamically based on recent activity. This results in ants discovering the shortest path to a food source.
+
+* **Queen Ant Mechanics:** The queen ant, identified by its yellow head and blue circle, can fly over walls. It spawns a new ant every 50 food items collected, contributing to colony growth.
+
 **Settings**
 
-Navigate to the settings menu to customise your experience. Import and export settings using the buttons at the top-right corner. Settings configurations are saved locally as text files for future use.
+Navigate to the settings menu to customise the simulator. Import and export settings using the buttons at the top-right corner. Settings configurations are saved locally as text files for future use.
 
 # Controls
 
