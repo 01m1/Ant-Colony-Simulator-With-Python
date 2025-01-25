@@ -1,5 +1,5 @@
 # Ant Colony Simulator 🐜
-Explore the behavior of ants in this interactive simulator. This project leverages Python, utilising Pygame and NumPy to simulate realistic ant behaviour.
+Explore the behaviour of ants in this interactive simulator. This project leverages Python, utilising Pygame and NumPy to simulate realistic ant behaviour.
 
 # Getting Started
 
