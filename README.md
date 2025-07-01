@@ -35,7 +35,7 @@ Start the simulation by clicking the 'Start' button on the main menu. Observe an
 
 Python can be installed from the official python website.
 
-You can clone the repository and setup a virtual environment and install all the necessary libraries automatically by running `install.sh` (for Linux)
+You can clone the repository and setup a virtual environment and install all the necessary libraries automatically by running `install.sh` (for Linux).
 
 OR
 
