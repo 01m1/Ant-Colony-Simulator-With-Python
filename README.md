@@ -33,11 +33,19 @@ Start the simulation by clicking the 'Start' button on the main menu. Observe an
 
 # Installation
 
-Python can be installed from the official python website. You can install NumPy and PyGame through the following command in your terminal.
+Python can be installed from the official python website.
+
+You can clone the repository and setup a virtual environment and install all the necessary libraries automatically by running `install.sh` (for Linux)
+
+OR
+
+You can install NumPy and PyGame yourself through the following command in your terminal.
 
 `pip install numpy pygame`
 
-Clone the repository and execute main.py to begin.
+Clone the repository and execute main.py with python3 to begin.
+
+`python3 main.py`
 
 # Gallery
 
